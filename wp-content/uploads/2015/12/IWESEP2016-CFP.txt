@@ -1,0 +1,180 @@
+*****************************************************************************
+CALL FOR PAPERS - IEEE IWESEP 2016
+
+The 7th IEEE International Workshop on Empirical Software Engineering
+in Practice
+http://iwesep2016.naist.jp/
+
+March 13, 2016, Osaka, Japan
+Co-located with IEEE SANER 2016
+*****************************************************************************
+
+The objective of the 7th IEEE International Workshop on Empirical Software
+Engineering in Practice (IWESEP) is to foster the development of the area by
+providing a forum where researchers and practitioners can report on and discuss
+new research results and applications in the area of empirical software
+engineering. The workshop encourages the exchange of ideas within the
+international community to better understand, from an empirical viewpoint, the
+strengths and weaknesses of technology in use and new technologies, with the
+expectation of furthering the field of software engineering.
+
+The workshop focuses on the processes, design and structure of empirical studies
+as well as the results of specific studies. The workshop welcomes both original
+and replicated studies, varying from controlled experiments to field studies,
+from quantitative to qualitative. We solicit the following two types of
+submissions: full research papers (max 6 pages) for oral presentations and
+abstracts (max 700 words) for poster presentations. Please check the website for
+more information.
+
+Accepted research papers will appear in the IEEE Computer Society Digital
+Library (CSDL).
+
+Note that IWESEP 2016 is organized independently of SANER 2016 official
+workshops and held on a different day from the official workshops.
+
+-----------------------------------------------------------------------------
+Special focus: Natural Language Processing and Game Theory
+
+Since much of the data produced by software development is unstructured and
+complex, empirical software engineering research should evolve by integrating
+the state-of-the art techniques and theories for analyzing such data. This year,
+IWESEP has a special focus to encourage exploration of Natural Language
+Processing and Game Theory techniques for empirical software engineering. We
+encourage authors to consider these topics in their submissions, but we also
+welcome traditional empirical software engineering studies.
+
+Game Theory + Empirical Software Engineering: Game theory is a fundamental
+mathematical model for understanding the behavior of self-interested agents and
+potentially provides a theoretical framework to analyze/explain why and how a
+specific phenomenon occurs in a software development community. Mechanism design,
+as a reverse problem of game theory, is a theory for designing a social system,
+e.g. software ecosystem, in which agents behave sincerely in spite of the
+freedom of their actions. The purpose of this special focus is to open avenues
+of collaboration between software engineering and game theory/mechanism design.
+Topics of interest include, but are not limited to:
+- Game theory models of software development environments
+- Utility estimation based on mining software repositories
+- Equilibrium analysis (e.g., Nash equilibrium)
+- Design/applications of incentive mechanisms
+
+Natural Language Processing + Empirical Software Engineering: Software
+ecosystems abound with natural language data. This data includes developer
+discussions, code comments, bug reports, and specifications. Natural Language
+Processing (NLP) is a research area that specializes in processing in just this
+variety of natural language data, and recent research has proven that the
+techniques developed therein have the potential to contribute to the software
+engineering field. For example, NLP has been used to make it easier to analyze
+developer interactions, automatically generate comments for source code, and
+provide natural language interfaces to search software repositories. In this
+special focus session, we welcome papers on any interaction between NLP and
+software engineering, from finished research results, to works-in-progress.
+Possible topics include, but are not limited to:
+- Automatic software artifact summarization/comment generation
+- Analysis of software-related Interactions
+- Natural language search of software repositories
+-----------------------------------------------------------------------------
+
+General call: In addition to the special focus of this year, traditional topics
+of interest include:
+- Empirical studies of software process and product
+- Comparison of cost estimation techniques
+- Analysis of the effects of design methods and characteristics
+- Evaluation of the readability of coding styles
+- Development, derivation and/or comparison of organizational models of
+  software development
+- Evaluation of testing methodologies
+- Reports on the benefits derived from using software development environments
+- Development of predictive models of defect rates and reliability from real
+  data
+- Infrastructure issues, such as measurement theory, experimental design,
+  qualitative modeling and analysis approaches
+- Experiences with research methods such as grounded theory, protocol studies
+  or families of experiments
+- Industrial experience in process improvement
+- Quality measurement
+- Process modeling and applications in industry
+- Experience management
+
+
+*****************************************************************************
+Submission:
+
+All submissions must use IEEE templates and should be submitted through
+EasyChair.
+http://www.easychair.org/conferences/?conf=iwesep2016
+
+*****************************************************************************
+Important Dates:
+
+- Abstract submission: December 20th, 2015
+- Paper submission: December 22th, 2015
+- Notification: January 10th, 2016
+- Camera Ready: January 22nd, 2016
+
+*****************************************************************************
+Organization
+
+General Chair:
+- Hideaki Hata (Nara Institute of Science and Technology, Japan)
+
+Program Co-Chairs:
+- Shinpei Hayashi (Tokyo Institute of Technology, Japan)
+- Shane McIntosh (McGill University, Canada)
+
+Special Focus Co-Chairs:
+- Graham Neubig (Nara Institute of Science and Technology, Japan)
+- Taiki Todo (Kyushu University, Japan)
+
+Publication Chair:
+- Xin Yang (Nara Institute of Science and Technology, Japan)
+
+Local Arrangement Chair:
+- Tetsuya Kanda (Osaka University, Japan)
+
+Finance Chair:
+- Akinori Ihara (Nara Institute of Science and Technology, Japan)
+
+Web Co-Chairs:
+- Kenji Fujiwara (Nara Institute of Science and Technology, Japan)
+- Saya Onoue (Nara Institute of Science and Technology, Japan)
+
+Student Staff Co-Chairs:
+- Hiroaki Murakami (Osaka University, Japan)
+- Passakorn Phannachitta (Nara Institute of Science and Technology, Japan)
+
+Steering Committees:
+- Akinori Ihara (Nara Institute of Science and Technology, Japan)
+- Yasutaka Kamei (Kyushu University, Japan)
+- Shinsuke Matsumoto (Kobe University, Japan)
+- Masateru Tsunoda (Kinki University, Japan)
+- Raula Gaikovina Kula (Osaka University, Japan)
+
+Advisory Committees:
+- Katsuro Inoue (Osaka University, Japan)
+- Shinji Kusumoto (Osaka University, Japan)
+- Kenichi Matsumoto (Nara Institute of Science and Technology, Japan)
+
+Program Committees:
+- Bram Adams (Ecole Polytechnique de Montreal, Canada)
+- Alberto Bacchelli (Delft University of Technology, Netherland)
+- Gabriele Bavota (Free University of Bolzano-Bozen, Italy)
+- Olga Baysal (Carleton University, Canada)
+- Cor-Paul Bezemer (Queen's University, Canada)
+- Eunjong Choi (Osaka University, Japan)
+- Bogdan Dit (Boise State University, USA)
+- Daniel German (University of Victoria, Canada)
+- Sonia Haiduc (Florida State University, USA)
+- Yoshiki Higo (Osaka University, Japan)
+- Akinori Ihara (Nara Institute of Science and Technology, Japan)
+- Zhen Ming Jiang (York University, Canada)
+- Yasutaka Kamei (Kyushu University, Japan)
+- Foutse Khomh (Ecole Polytechnique de Montreal, Canada)
+- David Lo (Singapore Management University, Singapore)
+- Osamu Mizuno (Kyoto Institute of Technology, Japan)
+- Andrea Mocci (University of Lugano, Switzerland)
+- Meiyappan Nagappan (Rochester Institute of Technology, USA)
+- Graham Neubig (Nara Institute of Science and Technology, Japan)
+- Weiyi Shang (Concordia University, Canada)
+- Taiki Todo (Kyushu University, Japan)
+- Bogdan Vasilescu (University of California, Davis, USA)
+- Thomas Zimmermann (Microsoft Research, USA)
